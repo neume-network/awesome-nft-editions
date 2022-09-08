@@ -17,3 +17,5 @@ A list of resources related to EIP-721, editions and NFTs.
 - [mirror-xyz/editions-v1](https://github.com/mirror-xyz/editions-v1)
 - [folia-app/folia-contracts](https://github.com/folia-app/folia-contracts)
 - [soundxyz/protocol](https://github.com/soundxyz/protocol)
+- [manifoldxyz/creator-core-extensions-solidity](https://github.com/manifoldxyz/creator-core-extensions-solidity)
+- [knownorigin/known-origin-contracts-v3](https://github.com/knownorigin/known-origin-contracts-v3)
