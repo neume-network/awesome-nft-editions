@@ -19,3 +19,4 @@ A list of resources related to EIP-721, editions and NFTs.
 - [soundxyz/protocol](https://github.com/soundxyz/protocol)
 - [manifoldxyz/creator-core-extensions-solidity](https://github.com/manifoldxyz/creator-core-extensions-solidity)
 - [knownorigin/known-origin-contracts-v3](https://github.com/knownorigin/known-origin-contracts-v3)
+- [projectopensea/seadrop](https://github.com/projectopensea/seadrop)
